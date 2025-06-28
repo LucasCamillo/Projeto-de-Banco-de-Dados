@@ -6,7 +6,7 @@ Este repositório contém o modelo de banco de dados utilizado para um projeto a
 
 O objetivo principal deste banco de dados é estruturar as informações necessárias para o funcionamento básico de um e-commerce, incluindo o cadastro de clientes, controle de pedidos, pagamentos, entregas, produtos e estoque.
 
-Este projeto foi desenvolvido como parte de um trabalho universitário na disciplina de modelagem de banco de dados e também representa a fase inicial de um projeto pessoal de marca de moda autoral.
+Este projeto foi desenvolvido como parte de um trabalho universitário na disciplina de "Imersão Profissional: Projeto de Banco de Dados" e também representa a fase inicial de um projeto pessoal de marca de moda autoral.
 
 ##  Estrutura do Banco
 
