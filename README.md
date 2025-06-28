@@ -6,7 +6,9 @@
       <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
   </h1>
 </div>
-
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
 
 # Banco de Dados - E-commerce de Roupas Destiny Chronicles
 
