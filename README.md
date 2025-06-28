@@ -2,7 +2,7 @@
 
 Este repositório contém o modelo de banco de dados utilizado para um projeto acadêmico voltado à criação de uma loja virtual especializada em roupas com temáticas mitológicas (grega, nórdica, egípcia, japonesa, entre outras).
 
-## 📘 Descrição
+## Descrição
 
 O objetivo principal deste banco de dados é estruturar as informações necessárias para o funcionamento básico de um e-commerce, incluindo o cadastro de clientes, controle de pedidos, pagamentos, entregas, produtos e estoque.
 
