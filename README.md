@@ -1,3 +1,13 @@
+<div align="center">
+  <h1 align="center">
+     Imersão Profissional: Projeto de Banco de Dados
+    <br />
+    <br />
+      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
+  </h1>
+</div>
+
+
 # Banco de Dados - E-commerce de Roupas Destiny Chronicles
 
 Este repositório contém o modelo de banco de dados utilizado para um projeto acadêmico voltado à criação de uma loja virtual especializada em roupas com temáticas mitológicas (grega, nórdica, egípcia, japonesa, entre outras).
