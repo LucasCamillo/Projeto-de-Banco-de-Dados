@@ -1,4 +1,4 @@
-# Banco de Dados - E-commerce de Roupas Mitológicas 
+# Banco de Dados - E-commerce de Roupas Destiny Chronicles
 
 Este repositório contém o modelo de banco de dados utilizado para um projeto acadêmico voltado à criação de uma loja virtual especializada em roupas com temáticas mitológicas (grega, nórdica, egípcia, japonesa, entre outras).
 
